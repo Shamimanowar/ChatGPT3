@@ -1,5 +1,31 @@
+import {
+  Footer,
+  Possibility,
+  Blog,
+  Features,
+  WhatGPT3,
+  Header,
+} from "./containers";
+import { CTA, Brand, Navbar } from "./components";
+import "./App.css";
+// ! End of imports
+
 function App() {
-  return <div className="App">GPT-3</div>;
+  return (
+    <div className="App">
+      <div className="gradient__bg">
+        <Navbar />
+        <Header />
+      </div>
+      <Brand />
+      <WhatGPT3 />
+      <Features />
+      <Possibility />
+      <CTA />
+      <Blog />
+      <Footer />
+    </div>
+  );
 }
 
 export default App;
