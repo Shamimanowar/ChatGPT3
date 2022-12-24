@@ -36,7 +36,7 @@ a {
     -webkit-text-fill-color: transparent;
 }
 
-.section__paddding {
+.section__padding {
     padding: 4rem 6rem;
 }
 
@@ -71,7 +71,7 @@ a {
 
 
 @media screen and (max-width: 700px) {
-    .section__paddding{
+    .section__padding{
         padding: 4rem;
     }
 
@@ -81,7 +81,7 @@ a {
 }
 
 @media screen and (max-width: 550px) {
-    .section__paddding{
+    .section__padding{
         padding: 4rem 2rem;
     }
 
