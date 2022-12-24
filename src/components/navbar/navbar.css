@@ -50,7 +50,7 @@
 .gpt3__navbar-sign button,
 .gpt3__navbar-menu_container button{
     padding: 0.5rem 1.5rem;
-    font-family: 'Manrope';
+    font-family: var(--font-family);
     background: #FF4820;
     color: #fff;
     font-weight: 500;
