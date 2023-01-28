@@ -44,7 +44,13 @@ const Footer = () => {
         </div>
       </div>
       <div className="gpt3__footer-container_rights">
-        <p>© 2021 GPT-3. All rights reserved.</p>
+        <p>© 2022 GPT-3. All rights reserved.</p>
+      </div>
+      <div className="gpt3__footer-container_developer">
+        <p>The Site is developed by </p>
+        <p>SHAMIM ANOWAR.</p>
+        <p>+88 01612 879888</p>
+        <p>Dhaka, Bangladesh</p>
       </div>
     </div>
   );
