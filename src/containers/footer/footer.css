@@ -169,4 +169,7 @@
     .gpt3__footer{
         margin-top: -4rem;
     }
+    .gpt3__footer-container_right{
+        flex-direction: column;
+    }
 }
